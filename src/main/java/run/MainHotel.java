@@ -1,7 +1,7 @@
 package run;
 
 
-import file.JsonParser;
+import jsonparser.JsonParser;
 import objects.Hotel;
 import objects.PriceRange;
 

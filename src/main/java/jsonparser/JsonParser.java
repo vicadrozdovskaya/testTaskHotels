@@ -7,18 +7,19 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 
 import java.io.IOException;
-import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
+
+import static java.nio.file.Files.*;
 
 public class JsonParser {
 
     public static final String path = "resources/Hotels.json";
 
     public static String readFromFile () throws IOException {
-        String lines = Files.lines(Paths.get(path)).collect(Collectors.joining());
+        String lines = lines(Paths.get(path)).collect(Collectors.joining());
         return lines;
     }
 
