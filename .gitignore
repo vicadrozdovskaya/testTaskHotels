@@ -1,0 +1,11 @@
+#Java IDEA
+*.class
+*.iml
+*.log
+*.txt
+test-output/*
+.idea/*
+target/*
+
+#Java-Maven
+build/*

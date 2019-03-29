@@ -1,0 +1,229 @@
+{
+  "hotels": [
+    {
+      "hotelType": "Hotel",
+      "hotelName": "Hilton",
+      "hotelCost": 75.99,
+      "hotelRating": 9.33,
+      "hotelBreakfast": "breakfast_included"
+    },
+    {
+      "hotelType": "Hotel",
+      "hotelName": "Hotel Jonico",
+      "hotelCost": 85.07,
+      "hotelRating": 8.4,
+      "hotelBreakfast": "breakfast_not_included"
+    },
+    {
+      "hotelType": "Hotel",
+      "hotelName": "Sofitel Rome Villa Borghese",
+      "hotelCost": 85.34,
+      "hotelRating": 5.9,
+      "hotelBreakfast": "breakfast_included"
+    },
+    {
+      "hotelType": "Hotel",
+      "hotelName": "Hotel Cosmopolita",
+      "hotelCost": 90.00,
+      "hotelRating": 8.0,
+      "hotelBreakfast": "breakfast_not_included"
+    },
+    {
+      "hotelType": "Hotel",
+      "hotelName": "Crowne Plaza Firenze",
+      "hotelCost": 148.30,
+      "hotelRating": 8.9,
+      "hotelBreakfast": "breakfast_included"
+    },
+    {
+      "hotelType": "Hostel",
+      "hotelName": "Ostello Bello",
+      "hotelCost": 25.99,
+      "hotelRating": 8.3,
+      "hotelBreakfast": "breakfast_not_included"
+    },
+    {
+      "hotelType": "Hostel",
+      "hotelName": "Hostel Urban Navigli",
+      "hotelCost": 27.00,
+      "hotelRating": 7.2,
+      "hotelBreakfast": "breakfast_not_included"
+    },
+    {
+      "hotelType": "Hostel",
+      "hotelName": "Un posto a Milano",
+      "hotelCost": 35.65,
+      "hotelRating": 7.6,
+      "hotelBreakfast": "breakfast_not_included"
+    },
+    {
+      "hotelType": "Hostel",
+      "hotelName": "Hostel Colours",
+      "hotelCost": 45.00,
+      "hotelRating": 6.9,
+      "hotelBreakfast": "breakfast_included"
+    },
+    {
+      "hotelType": "Apartment",
+      "hotelName": "Venezia Apartment",
+      "hotelCost": 45.00,
+      "hotelRating": 9.5,
+      "hotelBreakfast": "breakfast_not_included"
+    },
+    {
+      "hotelType": "Apartment",
+      "hotelName": "Apartment Amelie",
+      "hotelCost": 47.00,
+      "hotelRating": 6.3,
+      "hotelBreakfast": "breakfast_not_included"
+    },
+    {
+      "hotelType": "Apartment",
+      "hotelName": "Brera Apartment",
+      "hotelCost": 47.35,
+      "hotelRating": 6.4,
+      "hotelBreakfast": "breakfast_not_included"
+    },
+    {
+      "hotelType": "Apartment",
+      "hotelName": "Aparthotel Duomo",
+      "hotelCost": 50.50,
+      "hotelRating": 9.7,
+      "hotelBreakfast": "breakfast_not_included"
+    },
+    {
+      "hotelType": "Apartment",
+      "hotelName": "The Loft Apartment - Milan",
+      "hotelCost": 55.60,
+      "hotelRating": 6.3,
+      "hotelBreakfast": "breakfast_not_included"
+    },
+    {
+      "hotelType": "Apartment",
+      "hotelName": "Monte Napoleone Apartment",
+      "hotelCost": 57.99,
+      "hotelRating": 8.5,
+      "hotelBreakfast": "breakfast_not_included"
+    },
+    {
+      "hotelType": "Apartment",
+      "hotelName": "Apartament San Siro",
+      "hotelCost": 95.00,
+      "hotelRating": 8.1,
+      "hotelBreakfast": "breakfast_not_included"
+    },
+
+    {
+      "hotelType": "Hotel",
+      "hotelName": "Hiltonese",
+      "hotelCost": 32.99,
+      "hotelRating": 4.33,
+      "hotelBreakfast": "breakfast_included"
+    },
+    {
+      "hotelType": "Hotel",
+      "hotelName": "Hotel Jony company",
+      "hotelCost": 85.07,
+      "hotelRating": 3.4,
+      "hotelBreakfast": "breakfast_not_included"
+    },
+    {
+      "hotelType": "Hotel",
+      "hotelName": "Sofitel Rome Villas Borgheser",
+      "hotelCost": 5.34,
+      "hotelRating": 1.9,
+      "hotelBreakfast": "breakfast_included"
+    },
+    {
+      "hotelType": "Hotel",
+      "hotelName": "Hotel Cosmopolitan",
+      "hotelCost": 93.00,
+      "hotelRating": 8.3,
+      "hotelBreakfast": "breakfast_not_included"
+    },
+    {
+      "hotelType": "Hotel",
+      "hotelName": "Crowne Plaza Rome",
+      "hotelCost": 118.30,
+      "hotelRating": 7.9,
+      "hotelBreakfast": "breakfast_not_included"
+    },
+    {
+      "hotelType": "Hostel",
+      "hotelName": "Ostello Bellissimo",
+      "hotelCost": 39.49,
+      "hotelRating": 8.4,
+      "hotelBreakfast": "breakfast_not_included"
+    },
+    {
+      "hotelType": "Hostel",
+      "hotelName": "Hostel Urban Navigli",
+      "hotelCost": 27.00,
+      "hotelRating": 7.2,
+      "hotelBreakfast": "breakfast_not_included"
+    },
+    {
+      "hotelType": "Hostel",
+      "hotelName": "Un posto a Milanian",
+      "hotelCost": 35.65,
+      "hotelRating": 7.6,
+      "hotelBreakfast": "breakfast_included"
+    },
+    {
+      "hotelType": "Hostel",
+      "hotelName": "Hostel Colours",
+      "hotelCost": 53.00,
+      "hotelRating": 5.9,
+      "hotelBreakfast": "breakfast_included"
+    },
+    {
+      "hotelType": "Apartment",
+      "hotelName": "Venezialian Apartment",
+      "hotelCost": 48.00,
+      "hotelRating": 7.5,
+      "hotelBreakfast": "breakfast_not_included"
+    },
+    {
+      "hotelType": "Apartment",
+      "hotelName": "Apartment Amelie",
+      "hotelCost": 47.00,
+      "hotelRating": 6.3,
+      "hotelBreakfast": "breakfast_not_included"
+    },
+    {
+      "hotelType": "Apartment",
+      "hotelName": "Brerapon Apartment",
+      "hotelCost": 47.35,
+      "hotelRating": 6.4,
+      "hotelBreakfast": "breakfast_included"
+    },
+    {
+      "hotelType": "Apartment",
+      "hotelName": "Aparthotel Duomo",
+      "hotelCost": 50.50,
+      "hotelRating": 9.7,
+      "hotelBreakfast": "breakfast_not_included"
+    },
+    {
+      "hotelType": "Apartment",
+      "hotelName": "The Lofty Apartment - Milanoso",
+      "hotelCost": 1.60,
+      "hotelRating": 3.3,
+      "hotelBreakfast": "breakfast_not_included"
+    },
+    {
+      "hotelType": "Apartment",
+      "hotelName": "Montel Napole Apartment",
+      "hotelCost": 59.99,
+      "hotelRating": 3.5,
+      "hotelBreakfast": "breakfast_not_included"
+    },
+    {
+      "hotelType": "Apartment",
+      "hotelName": "Apartament San Siro more",
+      "hotelCost": 15.00,
+      "hotelRating": 1.1,
+      "hotelBreakfast": "breakfast_not_included"
+    }
+  ]
+}
