@@ -66,8 +66,9 @@ public class Hotel {
 
     @Override
     public String toString () {
-        return "Hotel {" + "hotelName='" + hotelName + '\'' + ", hotelType=" + hotelType + ", hotelCost=" + hotelCost + " $, hotelRating=" +
-               hotelRating + ", hotelBreakfast=" + hotelBreakfast + '}';
+        return "\n" + hotelType + " {" + "hotelName='" + hotelName + '\'' + ", hotelType="
+                + hotelType + ", hotelCost=" + hotelCost + " $, hotelRating="
+                + hotelRating + ", hotelBreakfast=" + hotelBreakfast + '}';
     }
 
 }
