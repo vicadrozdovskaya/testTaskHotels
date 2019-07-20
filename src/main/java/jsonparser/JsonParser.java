@@ -16,17 +16,15 @@ import static java.nio.file.Files.*;
 
 public class JsonParser {
 
-    public static final String path = "resources/Hotels.json";
-
-    public static String readFromFile () throws IOException {
+    public static String readFromFile ( String path) throws IOException {
         String lines = lines(Paths.get(path)).collect(Collectors.joining());
         return lines;
     }
 
-    public static List<Hotel> getHotelsFromJson () {
+    public static List<Hotel> getHotelsFromJson (String path) {
         List<Hotel> hotels = new ArrayList<>();
         try {
-            JSONObject object = new JSONObject(readFromFile());
+            JSONObject object = new JSONObject(readFromFile(path));
             JSONArray array = (JSONArray) object.get("hotels");
             for (int i = 0; i < array.length(); i++) {
                 JSONObject currentObject = (JSONObject) array.get(i);

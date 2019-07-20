@@ -15,7 +15,9 @@ import java.util.*;
 public class MainHotel {
 
     public static void main(String[] args) {
-        List<Hotel> hotels = JsonParser.getHotelsFromJson();
+        ResourceBundle rb = ResourceBundle.getBundle("props");
+        String path = rb.getString("fileLocation");
+        List<Hotel> hotels = JsonParser.getHotelsFromJson(path);
         doFirstTask(hotels);
         doSecondTask(hotels);
         doThirdTask(hotels);
